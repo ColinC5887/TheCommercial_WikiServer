@@ -1,0 +1,7 @@
+title: 樱桃沙盘
+markdown: kramdown
+
+remote_theme: ColinC5887/TheCommercial_WikiTheme 
+
+plugins:
+  - jekyll-feed
